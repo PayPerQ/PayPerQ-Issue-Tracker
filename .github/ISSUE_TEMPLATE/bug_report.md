@@ -1,6 +1,7 @@
 ---
 name: Bug report
-about: Create a report to help us improve
+about: 'Fill out whatever parts of this questionnaire template you think would be
+  helpful to us. '
 title: ''
 labels: ''
 assignees: ''
