@@ -1,2 +1,2 @@
 # PayPerQ-Issue-Tracker
-A place where users of PPQ can come and report bugs or express feature requests.
+A place where users of PPQ can come to report bugs and create feature requests.
